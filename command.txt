@@ -1,2 +1,9 @@
 initialize a repo
 git init
+
+adding multiple files
+git add .
+
+git commit -m "initial commit"
+
+hello
